@@ -1,2 +1,2 @@
 tsc  ts-node encapsulation.ts
-1,2
+1,2,3
